@@ -1,0 +1,11 @@
+﻿  main.cpp
+d:\github\zxing_decode\demo2\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\github\zxing_decode\demo2\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\github\zxing_decode\demo2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\github\zxing_decode\demo2\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+d:\github\zxing_decode\demo2\main.cpp(56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github\zxing_decode\demo2\main.cpp(57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\github\zxing_decode\demo2\main.cpp(58): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  LINK : D:\GitHub\zxing_decode\x64\Debug\demo2.exe not found or not built by the last incremental link; performing full link
+  demo2.vcxproj -> D:\GitHub\zxing_decode\x64\Debug\demo2.exe
+  demo2.vcxproj -> D:\GitHub\zxing_decode\x64\Debug\demo2.pdb (Full PDB)
