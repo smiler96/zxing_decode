@@ -59,6 +59,7 @@ int main()
 	cv::rectangle(matSrc, cv::Rect(point1, point0), cv::Scalar(0, 0, 255), 2);
 	cv::imshow("locate", matSrc);
 	cv::waitKey(0);
+	cv::imwrite("image/2res.jpg", matSrc);
 
 	return 0;
 }
